@@ -8,7 +8,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 BOT_TOKEN   = "8874441025:AAEAwTWU8J8LaUTf78fKqn1StUnrH1O30Ec"
-PAYMENT_URL = "https://t.me/Art_Power_Bot"
+PAYMENT_URL = "@Masha_Mich"
 GUIDE_PRICE = "790 ₽"
 AUTHOR_NAME = "Мария"
 
